@@ -1,8 +1,8 @@
-package org.msalata.pkpstation.models;
+package org.msalata.railwayStationSim.models;
 
 import javafx.scene.Node;
 import javafx.scene.image.ImageView;
-import org.msalata.pkpstation.Constants;
+import org.msalata.railwayStationSim.Constants;
 
 import java.util.UUID;
 

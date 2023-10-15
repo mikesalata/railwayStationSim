@@ -1,8 +1,8 @@
-package org.msalata.pkpstation.logic;
+package org.msalata.railwayStationSim.logic;
 
-import org.msalata.pkpstation.Constants;
-import org.msalata.pkpstation.models.StationClientNode;
-import org.msalata.pkpstation.models.StationObjects;
+import org.msalata.railwayStationSim.Constants;
+import org.msalata.railwayStationSim.models.StationClientNode;
+import org.msalata.railwayStationSim.models.StationObjects;
 
 import java.util.Map;
 import java.util.Random;

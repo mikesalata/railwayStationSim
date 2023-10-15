@@ -1,4 +1,4 @@
-package org.msalata.pkpstation.logic;
+package org.msalata.railwayStationSim.logic;
 
 import java.util.UUID;
 import java.util.concurrent.Semaphore;

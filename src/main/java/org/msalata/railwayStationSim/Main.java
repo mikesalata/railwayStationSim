@@ -1,4 +1,4 @@
-package org.msalata.pkpstation;
+package org.msalata.railwayStationSim;
 
 import javafx.animation.Animation;
 import javafx.animation.KeyFrame;
@@ -12,13 +12,13 @@ import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 import javafx.util.Duration;
-import org.msalata.pkpstation.models.*;
+import org.msalata.railwayStationSim.models.*;
 
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-import static org.msalata.pkpstation.Constants.*;
+import static org.msalata.railwayStationSim.Constants.*;
 public class Main extends Application {
 
     private boolean running = false;

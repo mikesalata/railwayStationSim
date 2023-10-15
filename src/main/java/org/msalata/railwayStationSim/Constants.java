@@ -1,4 +1,4 @@
-package org.msalata.pkpstation;
+package org.msalata.railwayStationSim;
 
 import javafx.scene.image.Image;
 

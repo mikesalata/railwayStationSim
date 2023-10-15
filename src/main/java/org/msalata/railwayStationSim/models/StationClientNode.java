@@ -1,9 +1,9 @@
-package org.msalata.pkpstation.models;
+package org.msalata.railwayStationSim.models;
 
 import javafx.scene.Node;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
-import org.msalata.pkpstation.Constants;
+import org.msalata.railwayStationSim.Constants;
 
 import java.util.Queue;
 import java.util.Random;
@@ -12,8 +12,8 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-import static org.msalata.pkpstation.Constants.CLIENT_BLOCK_SIZE;
-import static org.msalata.pkpstation.Constants.OBJECT_MOVEMENT_DELTA;
+import static org.msalata.railwayStationSim.Constants.CLIENT_BLOCK_SIZE;
+import static org.msalata.railwayStationSim.Constants.OBJECT_MOVEMENT_DELTA;
 
 public class StationClientNode {
 

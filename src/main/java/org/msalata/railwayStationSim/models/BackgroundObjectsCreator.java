@@ -1,19 +1,19 @@
-package org.msalata.pkpstation.models;
+package org.msalata.railwayStationSim.models;
 
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
-import org.msalata.pkpstation.Constants;
-import org.msalata.pkpstation.logic.*;
+import org.msalata.railwayStationSim.Constants;
+import org.msalata.railwayStationSim.logic.*;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.UUID;
 
-import static org.msalata.pkpstation.Constants.PANE_HEIGHT;
-import static org.msalata.pkpstation.Constants.PANE_WIDTH;
+import static org.msalata.railwayStationSim.Constants.PANE_HEIGHT;
+import static org.msalata.railwayStationSim.Constants.PANE_WIDTH;
 
 public class BackgroundObjectsCreator {
 

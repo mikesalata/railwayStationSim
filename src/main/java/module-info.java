@@ -1,4 +1,4 @@
-module org.msalata.pkpstation {
+module org.msalata.railwayStationSim {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -10,6 +10,6 @@ module org.msalata.pkpstation {
     requires org.kordamp.bootstrapfx.core;
     requires com.almasb.fxgl.all;
 
-    opens org.msalata.pkpstation to javafx.fxml;
-    exports org.msalata.pkpstation;
+    opens org.msalata.railwayStationSim to javafx.fxml;
+    exports org.msalata.railwayStationSim;
 }

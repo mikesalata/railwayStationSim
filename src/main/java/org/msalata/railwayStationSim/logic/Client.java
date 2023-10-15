@@ -1,13 +1,13 @@
-package org.msalata.pkpstation.logic;
+package org.msalata.railwayStationSim.logic;
 
-import org.msalata.pkpstation.Constants;
-import org.msalata.pkpstation.models.StationClientNode;
+import org.msalata.railwayStationSim.Constants;
+import org.msalata.railwayStationSim.models.StationClientNode;
 
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.Semaphore;
 
-import static org.msalata.pkpstation.logic.Client.CLIENT_STATE.*;
+import static org.msalata.railwayStationSim.logic.Client.CLIENT_STATE.*;
 
 public class Client extends Thread {
 

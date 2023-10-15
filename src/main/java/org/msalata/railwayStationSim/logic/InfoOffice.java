@@ -1,6 +1,6 @@
-package org.msalata.pkpstation.logic;
+package org.msalata.railwayStationSim.logic;
 
-import org.msalata.pkpstation.models.StaticStationObjectNode;
+import org.msalata.railwayStationSim.models.StaticStationObjectNode;
 
 import java.util.UUID;
 

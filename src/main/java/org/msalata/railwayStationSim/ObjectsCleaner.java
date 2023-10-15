@@ -1,6 +1,6 @@
-package org.msalata.pkpstation;
+package org.msalata.railwayStationSim;
 
-import org.msalata.pkpstation.models.StationClientNode;
+import org.msalata.railwayStationSim.models.StationClientNode;
 
 import java.util.Map;
 import java.util.Set;

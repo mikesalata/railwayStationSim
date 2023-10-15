@@ -1,4 +1,4 @@
-package org.msalata.pkpstation.logic;
+package org.msalata.railwayStationSim.logic;
 
 public interface ObjectWithIdentity {
     String getIdentifier();
